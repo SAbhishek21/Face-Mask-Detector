@@ -22,7 +22,7 @@ The data used can be downloaded through this [link](https://data-flair.training/
 
 To use this project on your system, follow these steps:
 
-1.Clone this repository:-
+1. Clone this repository:-
 git clone https://github.com/SAbhishek21/Face-Mask-Detector.git
 
 2. Install the prequisites for running the project:-
